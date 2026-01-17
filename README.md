@@ -1,6 +1,5 @@
 # 🔒 Web Server Log Security Analyzer
 
-**Author:** JHC Kok  
 **Project Type:** Security Operations & Threat Detection  
 **Technologies:** Python 3, Log Analysis, Pattern Matching, Security Automation  
 **Status:** Active Portfolio Project
@@ -237,11 +236,7 @@ This project is part of a larger cybersecurity portfolio:
 
 ## 📧 Contact
 
-**Author:** Johan Hendrik Christoffel Kok (JHC Kok)  
-**Email:** jhckokpretoria@gmail.com  
-**Location:** Centurion, Gauteng, South Africa  
-**GitHub:** https://github.com/johankok2  
-**LinkedIn:** https://www.linkedin.com/in/johankok-cybersecurity/
+/
 
 ---
 
